@@ -1,20 +1,21 @@
 # Beer Recommender
 
 ## EDA
-1,586,614 entries
+Dataset consists of:
 
-13 features:
+1,586,614 entries \
+13 features: \
 
-- 'brewery_id'
-- 'brewery_name'
-- 'review_time'
-- 'review_overall'
-- 'review_aroma'
-- 'review_appearance'
-- 'review_profilename'
-- 'beer_style'
-- 'review_palate'
-- 'review_taste'
-- 'beer_name'
-- 'beer_abv'
-- 'beer_beerid'
+1. Brewery Id
+2. Brewery Name
+3. Review Timestamp
+4. Overall Score
+5. Aroma Score
+6. Appearance Score
+7. Reviewer Username
+8. Beer Style
+9. Palate Score
+10. Taste Score
+11. Beer Name
+12. Beer ABV
+13. Beer ID
