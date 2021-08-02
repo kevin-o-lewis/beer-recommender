@@ -25,7 +25,7 @@
 13. Beer ID
 
 
-**Distribution Information:**
+**Distribution Information:**\
 Reviews per user: 
 - Average: 47.4
 - Max: 5817
