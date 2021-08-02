@@ -2,7 +2,9 @@
 
 ## EDA
 1,586,614 entries
+
 13 features:
+
 - 'brewery_id'
 - 'brewery_name'
 - 'review_time'
