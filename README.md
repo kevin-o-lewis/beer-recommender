@@ -35,3 +35,9 @@ Reviews per beer:
 - Average: 24.0
 - Max: 3290
 - Min: 1
+
+
+## Data Cleaning
+![Screen Shot 2021-08-02 at 11 30 04 AM](https://user-images.githubusercontent.com/83669741/127907367-6243185d-639f-4436-9d3a-6a0686e59c31.png)
+
+The column with the most null values is Beer ABV, affecting 67,785 reviews and 14,110 beers. Until I can determine the significance of this feature, I will remove all nulls. Once I have a working model I will determine the best way to reintroduce the beers that were removed. 
