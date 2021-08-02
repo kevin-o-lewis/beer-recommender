@@ -3,9 +3,8 @@
 ## EDA
 **Dataset consists of:**
 
-- 1,586,614 entries \
+- 1,586,614 entries
 - 13 features: 
-
       1. Brewery Id
       2. Brewery Name
       3. Review Timestamp
