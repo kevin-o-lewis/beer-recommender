@@ -46,7 +46,7 @@ The column with the most null values is Beer ABV, affecting 67,785 reviews and 1
 I separated the dataset into a training and holdout set with 25% of the reviews reserved for holdout testing.
 
 ## Initial Models
-I used the Surprise library to produce some quick initial collaborative models, with results below. All models were performed on the same train-test-split of the training set.
+I used the Surprise library to produce some quick initial collaborative models, with results below. All models were performed on the same train-test-split of the training set and with all default parameters.
 |Model|RMSE|
 |-----|----|
 |Normal Predictor|1.9884|
