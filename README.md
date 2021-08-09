@@ -39,7 +39,7 @@ Reviews per beer:
 
 
 **Most Popular Beers:**\
-I calculated the five most popular beers, accounting for the number of reviews using the weighted rating seen below. This ensures that beers with a high average rating but a low number of reviews aren't over-represented.
+I calculated the five most popular beers, accounting for the number of reviews using the weighted rating seen below. This ensures that beers with a high average rating but a low number of reviews aren't over-represented. I'll use these later as general recommendations for users with too few reviews to make a personalized recommendation (cold start problem).
 
 ![Screen Shot 2021-08-09 at 9 07 26 AM](https://user-images.githubusercontent.com/83669741/128738013-2ab2a564-7618-4218-8cd8-eb9c3564543d.png)\
 v is the number of votes for the movie\
