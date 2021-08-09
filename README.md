@@ -38,6 +38,16 @@ Reviews per beer:
 - Min: 1
 
 
+**Most Popular Beers:**
+|Beer|Number of Votes|Mean Rating|Weighted Rating|
+|----|---------------|-----------|---------------|
+|1545|1272|9.23|9.220|
+|16814|469|9.25|9.211|
+|5608|252|9.26|9.188|
+|68548|65|9.46|9.176|
+|7971|2527|9.18|9.173|
+
+
 ## Data Cleaning
 ![Screen Shot 2021-08-02 at 11 50 29 AM](https://user-images.githubusercontent.com/83669741/127909450-9a2e6eb5-a2d3-49d0-a054-c5bda71a780d.png)
 
