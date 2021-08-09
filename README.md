@@ -47,7 +47,7 @@ m is the minimum votes required to be listed in the chart\
 R is the average rating of the movie\
 C is the mean vote across the whole report\
 
-|Brewey|Beer|Number of Votes|Mean Rating|Weighted Rating|
+|Brewery|Beer|Number of Votes|Mean Rating|Weighted Rating|
 |------|----|---------------|-----------|---------------|
 |Brouwerij Westvleteren|Trappist Westvleteren 12|1272|9.23|9.220|
 |The Alchemist|Heady Topper|469|9.25|9.211|
