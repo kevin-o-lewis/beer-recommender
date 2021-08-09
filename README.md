@@ -47,13 +47,13 @@ m is the minimum votes required to be listed in the chart\
 R is the average rating of the movie\
 C is the mean vote across the whole report\
 
-|Beer|Number of Votes|Mean Rating|Weighted Rating|
-|----|---------------|-----------|---------------|
-|1545|1272|9.23|9.220|
-|16814|469|9.25|9.211|
-|5608|252|9.26|9.188|
-|68548|65|9.46|9.176|
-|7971|2527|9.18|9.173|
+|Brewey|Beer|Number of Votes|Mean Rating|Weighted Rating|
+|------|----|---------------|-----------|---------------|
+|Brouwerij Westvleteren|Trappist Westvleteren 12|1272|9.23|9.220|
+|The Alchemist|Heady Topper|469|9.25|9.211|
+|Kern River Brewing Company|Citra DIPA|252|9.26|9.188|
+|Brouwerij Drie Fonteinen|Armand'4 Oude Geuze Lente|65|9.46|9.176|
+|Russian River Brewing Company|Pliny The Elder|2527|9.18|9.173|
 
 
 ## Data Cleaning
