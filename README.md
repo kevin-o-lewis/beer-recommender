@@ -71,3 +71,13 @@ I used the Surprise library to produce some quick initial collaborative models, 
 |KNN with means|1.2622|
 |SVD|1.2476|
 |SlopeOne|1.2345|
+
+
+## Tuned Model
+I used SVD for my final model, with the following parameters tuned via grid search:
+|Parameter|Argument|
+|---------|--------|
+|Factors|10|
+|Epochs|20|
+|Learning Rate|0.005|
+|Regularization|0.03|
