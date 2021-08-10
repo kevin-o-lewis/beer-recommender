@@ -81,3 +81,5 @@ I used SVD for my final model, with the following parameters tuned via grid sear
 |Epochs|20|
 |Learning Rate|0.005|
 |Regularization|0.03|
+
+Which resulted in a final RMSE of 1.2083
