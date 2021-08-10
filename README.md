@@ -83,3 +83,12 @@ I used SVD for my final model, with the following parameters tuned via grid sear
 |Regularization|0.03|
 
 Which resulted in a final RMSE of 1.2083
+
+## Predictions
+Cold start recommendation for user with less than 10 reviews:
+![cold start recommendation](https://user-images.githubusercontent.com/83669741/128909043-7efcedbd-713d-409a-a475-1ff32739ef5a.png)
+
+Personalized recommendation for user with more than 10 reviews:
+![personalized recommenation](https://user-images.githubusercontent.com/83669741/128909126-48d123e5-2f29-4a2c-b342-434cafaf3068.png)
+
+
